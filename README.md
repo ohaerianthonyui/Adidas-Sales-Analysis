@@ -92,3 +92,6 @@ The dominance of in-store sales as the most effective method emphasizes the impo
    Given that certain months (such as April 2020 and July 2021) significantly outperformed others, implementing targeted seasonal promotions or campaigns during peak months could further amplify sales. Understanding the reasons behind these fluctuations (e.g., promotions, consumer behavior) will be key to replicating successful periods.
 
 By focusing on these areas, the company can build on its strong performance and address gaps in underperforming segments, leading to sustained growth and profitability in the coming years.
+
+Link to PowerBI Dashboard
+https://app.powerbi.com/links/dCjA6gn3lL?ctid=69325dde-5d79-4a24-b13b-bada81fb1581&pbi_source=linkShare
